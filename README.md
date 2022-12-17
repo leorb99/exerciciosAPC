@@ -1,2 +1,2 @@
 Este repositório será usado para praticar o uso do GitHub.
-Pretendo adicionar alguns exercicios interessantes do primeiro e do segundo semestre.
+Nele terá alguns exercícios da disciplina Algoritmos e Programação de Computadores - UnB
