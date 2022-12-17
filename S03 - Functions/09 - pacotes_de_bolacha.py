@@ -1,5 +1,5 @@
 #PACOTES DE BOLACHA 1
-'''
+
 def pacotesDeBolacha(m, n, k):
     if (k * n) > m:
         var = m // n
@@ -10,7 +10,7 @@ def pacotesDeBolacha(m, n, k):
 def pacotesDeBolacha(m, n, k):
     var = m // n
     print(f'{m - (var * n)}')
-
+'''
 pacotesDeBolacha(4,4,1) # 0 
 pacotesDeBolacha(13,5,2) # 3 
 pacotesDeBolacha(10,9,2) # 1 
